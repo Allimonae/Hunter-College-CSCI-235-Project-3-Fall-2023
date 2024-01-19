@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+*.log
+a.exe
+myprogram.exe
